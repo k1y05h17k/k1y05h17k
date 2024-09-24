@@ -1,56 +1,39 @@
-<h4 align="left">I'm Kiyoshi Takahama Borges, a developer with strong expertise in Node.js, specialized in building RESTful APIs using Express and NestJS, as well as system integrations with Mongoose and Docker. Currently, I work as a Tech Lead, leading teams and applying best development practices such as TDD and design patterns.<br><br></h4>
+<h5 align="left">Hi 👋! I'm Kiyoshi Takahama, a developer with strong expertise in Node.js, specialized in building RESTful APIs using Express and NestJS, as well as system integrations with Mongoose and Docker. Currently, I work as a Tech Lead, leading teams and applying best development practices such as TDD and design patterns.</h5>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1y05h17k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=k1y05h17k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1y05h17k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=k1y05h17k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="105" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=k1y05h17k&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=3" height="99" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1y05h17k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="90" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="30" alt="mocha logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="20" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="20" alt="nestjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pug" height="20" alt="pug logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="20" alt="sequelize logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="20" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="20" alt="heroku logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="20" alt="gitlab logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="kiyoshitk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kiyoshitk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/k1y05h17k" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-</div>
-
-###
 ###
