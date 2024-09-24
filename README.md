@@ -53,9 +53,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/k1y05h17k/k1y05h17k/blob/main/snake.yml" alt="Snake animation" />
-
 ###
